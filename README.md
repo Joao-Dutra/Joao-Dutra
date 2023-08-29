@@ -18,6 +18,3 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
-
-# 📊 GitHub Stats:
-![Joao-Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Dutra&show_icons=true&theme=transparent)

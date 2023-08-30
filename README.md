@@ -11,7 +11,7 @@
 - 💬 Contact me 
 
 <p align="left">
-  <a href="https://br.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/></a>
+  <a href="https://br.linkedin.com/in/joao-victor-dutra-martins"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/></a>
   <a href="mailto:jaumdutra744@gmail.com"><img src="https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
 </p>
 <p align="center">

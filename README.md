@@ -1,9 +1,10 @@
 <h1 align="center">Hello, I'm João Victor 👋</h1>
 <h4 align="center">I'm a Developer from Brazil 🏝️</h4>
 <br>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joao-Dutra&show_icons=true&count_private=true&theme=gotham&hide_border=true" width="350"></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Dutra&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Dutra&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+</div>
 
 ----
 
@@ -42,7 +43,6 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE" />
 </p>
 
 ----

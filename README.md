@@ -25,7 +25,7 @@
 
 ## Experience 💻
 
-- 👨‍💻 **Development Intern | Delivery**\
+- 👨‍💻 **Development Intern**\
 📆 January/2025 - Present\
 📍 **Remote in Gaudium** - Brazil
 
